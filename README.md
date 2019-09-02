@@ -1,5 +1,8 @@
 # JAVA_BE
 
+[x] 지뢰 찾기 
+[ ] DAO파일을 mybatis로 변경 (...ing)
+
 ## All Homework & Soulution
 
 <div>
