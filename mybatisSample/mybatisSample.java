@@ -10,6 +10,7 @@ import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 
 public class mybatisSample {
  
+	// UserDAO 함수 중 login 함수를 mybatis로 변경 한 함수
 	public static void main(String[] args) throws IOException {
 		
 		String conf = "mybatisSample/mybatis-config.xml";
@@ -52,8 +53,33 @@ public class mybatisSample {
 			}
 		} finally {
 			session.close();
+	}
+}
+	// UserDAO의 insertJoin 이라는 함수를 mybatis로 변경한 함수 
+	public static void insertUserInfo() throws IOException{
+		String conf = "mybatisSample/mybatis-config.xml";
+		
+		Reader reader = Resources.getResourceAsReader(conf);
+		SqlSession session = new SqlSessionFactoryBuilder().build(reader).openSession();
+		
+		try{
+			
+			User user = new User();
+			user.getUserID();
+			user.getUserPassword();
+			user.getUserName();
+			user.getUserGender();
+			user.getUserEmail();
+			
+			session.insert("insertUserInfo", user);
+			session.commit();
+			
+			System.out.println(user.getUserID());
+			System.out.println("success");
+			
+		}finally {
+			session.close();
 		}
 	}
-
 }
 
