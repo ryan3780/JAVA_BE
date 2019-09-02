@@ -17,10 +17,24 @@
     FROM USER 
     WHERE userID = #{id}
   </select>
-  <!-- user 테이블의 list 정보 조회  -->
+<!-- user 테이블의 list 정보 조회  -->
   <select id="selecListInfo" resultType="User" resultMap = "userInfoResult">
-    SELECT 
+    SELECT * 
     FROM USER 
-    WHERE userID = #{id}
   </select>
+<!--user 테이블에 입력하는 구문  -->
+   <insert id="insertUserInfo" parameterType ="User">
+   INSERT INTO BBS.USER
+   (userID,
+   	userPassword,
+   	userName,
+   	userGender,
+   	userEmail)
+   	VALUES
+   	(#{userId},
+   	 #{userPassword},
+   	 #{userName},
+   	 #{userGender},
+   	 #{userEmail})
+  </insert>
 </mapper>
