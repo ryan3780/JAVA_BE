@@ -2,6 +2,8 @@
 
 ##### [x] 지뢰 찾기 
 ##### [ ] DAO파일을 mybatis로 변경 (...ing)
+##### [ ] ERD 
+##### [ ] 액션 다이어그램
 
 ## All Homework & Soulution
 
