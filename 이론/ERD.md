@@ -7,7 +7,7 @@ ERD (Entity Relationship Diagram)
 ##### URL : https://mangkyu.tistory.com/27
 ##### URL : https://m.blog.naver.com/gongtong/150135598792
 
-###
+##
 
 ##### 수강 신청 ERD + Action Diagram
 
