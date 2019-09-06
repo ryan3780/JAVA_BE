@@ -1,8 +1,8 @@
 # JAVA_BE
 
 ##### [x] 지뢰 찾기 
-##### [x] DAO파일을 mybatis로 변경 (...ing)
-##### [x] ERD 
+##### [x] DAO파일을 mybatis로 변경 (검사 받아야함)
+##### [x] ERD (검사 받아야함)
 ##### [ ] 액션 다이어그램
 
 ## All Homework & Soulution
