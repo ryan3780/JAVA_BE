@@ -15,3 +15,5 @@ ERD (Entity Relationship Diagram)
 ###### 관계 : 신청
 ###### 학생 속성 : 학번, 이름, 연락처, 학과
 ###### 과목 속성 : 과목 코드, 과목 명, 교수명, 과목 
+
+### ERD tool : http://aquerytool.com/
