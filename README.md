@@ -21,7 +21,13 @@
 </div>
 
 #### ERD 그려봤습니다!! 어렵습니다!!
+##
 
+<div>
+ <img src = "https://user-images.githubusercontent.com/45477679/64402891-64c60a80-d0b1-11e9-89b0-dc77f71ce24c.png" width = "400" />
+</div>
+
+#### 액션 다이어그램입니다. activity diagram과 같은 말인가요??
 
 ## Mybatis Tutorial
 
