@@ -18,7 +18,7 @@
 
 <div>
  <img src = "https://user-images.githubusercontent.com/45477679/64401314-5674f000-d0ab-11e9-9f77-128cb32e4b35.png" width = "400" />
-<img src = "https://user-images.githubusercontent.com/45477679/64401318-58d74a00-d0ab-11e9-977f-9d109441f53d.png" width = "400" />
+<img src = "https://user-images.githubusercontent.com/45477679/64603107-d7f5b680-d3fa-11e9-8bc1-ca79796c1bdb.png" width = "400" />
 </div>
 
 #### ERD 그려봤습니다!! 어렵습니다!!
