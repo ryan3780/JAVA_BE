@@ -11,10 +11,7 @@ ERD (Entity Relationship Diagram)
 
 ##### 수강 신청 ERD + Action Diagram
 
-###### 개체 : 학생 , 과목 
-###### 관계 : 신청
-###### 학생 속성 : 학번, 이름, 연락처, 학과
-###### 과목 속성 : 과목 코드, 과목 명, 교수명, 과목 
+##### https://lilymate.tistory.com/484 (다시 ERD를 만들때 참고 한 페이지)
 
 ##
 
