@@ -17,7 +17,7 @@
 ##
 
 <div>
- <img src = "https://user-images.githubusercontent.com/45477679/64401314-5674f000-d0ab-11e9-9f77-128cb32e4b35.png" width = "400" />
+ <img src = "https://user-images.githubusercontent.com/45477679/64772642-ea532a00-d58b-11e9-9b38-7c9805a4712b.png" width = "400" />
 <img src = "https://user-images.githubusercontent.com/45477679/64684596-5f592d80-d4c0-11e9-9b0c-5955cc5d32cd.png" width = "400" />
 </div>
 
